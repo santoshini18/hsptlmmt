@@ -9,7 +9,7 @@ function ShowRecordList() {
 
   useEffect(() => {
     axios
-      .get('https://5000-santoshini18-hsptlmmt-0vwjdk3ufw5.ws-us93.gitpod.io/api/hsptlmmt')
+      .get('https://5000-santoshini18-hsptlmmt-0vwjdk3ufw5.ws-us94.gitpod.io/api/hsptlmmt')
       .then((res) => {
         setHsptl(res.data);
       })

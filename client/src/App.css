@@ -84,8 +84,6 @@ ul a:hover {
   text-decoration: none;
 }
 
-
-
 @media (max-width:768px) {
   ul li:not(:last-child) {
     margin-right: 30px;
