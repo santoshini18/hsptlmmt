@@ -11,7 +11,7 @@ function ShowRecordDetails(props) {
 
   useEffect(() => {
     axios
-      .get(`https://5000-santoshini18-hsptlmmt-0vwjdk3ufw5.ws-us94.gitpod.io/api/hsptlmmt/${id}`)
+      .get(`/api/hsptlmmt/${id}`)
       .then((res) => {
         setHsptl(res.data);
       })
@@ -22,7 +22,7 @@ function ShowRecordDetails(props) {
 
   const onDeleteClick = (id) => {
     axios
-      .delete(`https://5000-santoshini18-hsptlmmt-0vwjdk3ufw5.ws-us94.gitpod.io/api/hsptlmmt/${id}`)
+      .delete(`/api/hsptlmmt/${id}`)
       .then((res) => {
         navigate('/');
       })

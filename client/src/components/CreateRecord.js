@@ -25,7 +25,7 @@ const CreateRecord = (props) => {
     e.preventDefault();
 
     axios
-      .post('https://5000-santoshini18-hsptlmmt-0vwjdk3ufw5.ws-us94.gitpod.io/api/hsptlmmt', hsptlmmt)
+      .post('/api/hsptlmmt', hsptlmmt)
       .then((res) => {
         setHsptl({
           name: '',
