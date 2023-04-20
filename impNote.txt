@@ -1,3 +1,3 @@
-deploy kari deli 
-yaa pore tme jaha bhi change kari gote single code run kariba ok 
-mu khali deploy kari deli 
+After change are made come out from that directory using "cd .."
+then run this command " ./run.sh " in terminal 
+this command automatically push all the code into github and your project got updated also
