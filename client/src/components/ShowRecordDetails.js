@@ -75,7 +75,7 @@ function ShowRecordDetails(props) {
         <div className='row'>
           <div className='col-md-10 m-auto'>
             <br /> <br />
-            <Link to='/' className='btn btn-outline-warning float-left'>
+            <Link to='/ShowRecordList' className='btn btn-outline-warning float-left'>
               Show Record List
             </Link>
           </div>
