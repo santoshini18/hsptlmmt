@@ -34,7 +34,7 @@
 
 .logo {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color: #2c97da;
+  color: #0d7b8a;
 }
 
 .menu-icon {
@@ -141,3 +141,104 @@ ul a:hover {
   background-attachment: fixed;
   background-size: cover;
 }
+
+
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.CreateBook {
+  background-color: #2a2a72;
+  background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+  min-height: 100vh;
+  color: beige;
+}
+
+.ShowBookDetails {
+  background-color: #2a2a72;
+  background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);;
+  min-height: 100vh;
+  color: beige;
+}
+
+.UpdateBookInfo {
+  background-color: #2a2a72;
+  background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+  min-height: 100vh;
+  color: beige;
+}
+
+.ShowBookList {
+  background-color: #2a2a72;
+  background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+  height: 100%;
+  width: 100%;
+  min-height: 100vh;
+  min-width: 100px;
+  color: beige;
+}
+
+
+.list {
+  display: grid;
+  margin: 20px 0 50px 0;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: 1fr;
+  grid-gap: 2em;
+}
+
+
+.card-container {
+  width: 250px;
+  border: 1px solid rgb(165, 165, 165);
+  margin: 0 auto;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+
+.desc {
+  height: 130px;
+  padding: 10px;
+}
+
+.desc h2 {
+  font-size: 1em;
+  font-weight: 400;
+}
+
+
+.desc h3, p {
+  font-weight: 300;
+}
+
+.desc h3  {
+  color: #6c757d;
+  font-size: 1em;
+  padding: 10px 0 10px 0;
+}
+
+.container{
+   color: #1b8a84;
+}
+
+
+
+
+

@@ -10,7 +10,7 @@ const RecordCard = (props) => {
   return (
     <div className='card-container'>
       <img
-        src='https://images.unsplash.com/photo-1495446815901-a7297e633e8d'
+        src='https://cdn.pixabay.com/photo/2014/12/10/20/56/medical-563427__340.jpg'
         alt='Records'
         height={200}
       />

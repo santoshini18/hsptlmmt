@@ -137,7 +137,7 @@ function UpdateRecordInfo(props) {
               <input
                 type='text'
                 placeholder='Disease'
-                name='disease'
+                name='diseases'
                 className='form-control'
                 value={hsptlmmt.diseases}
                 onChange={onChange}
@@ -170,4 +170,7 @@ function UpdateRecordInfo(props) {
     </div>
   );
 }
+
+
+
 export default UpdateRecordInfo;

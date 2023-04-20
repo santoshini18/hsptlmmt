@@ -31,16 +31,19 @@ const Home = () => {
         <div className={`nav-element ${showNavbar && 'active'} `} >
           <ul >
             <li>
-              <Link to='/'>Home</Link>
+              <Link to='/'><b>Home</b></Link>
             </li>
             <li>
-              <Link to='/create-record'>Appintment</Link>
+              <Link to='/create-record'><b>Appintment</b></Link>
             </li>
             <li>
-              <Link to='/'>Services</Link>
+              <Link to='/'><b>Services</b></Link>
             </li>
             <li>
-              <Link to='/'>Contact</Link>
+              <Link to='/'><b>Blogs</b></Link>
+            </li>
+            <li>
+              <Link to='/'><b>Contact</b></Link>
             </li>
           </ul>
         </div>
@@ -53,14 +56,14 @@ const Home = () => {
       <Carousel.Item>
         <img
           className="d-block w-100"
-        src='https://t3.ftcdn.net/jpg/05/82/60/88/240_F_582608812_Ffl4lo71fO3Y0j29rlQeItBrcm7maL4h.jpg'
+        src='https://static.wixstatic.com/media/49d95c_9e5994f8125f470c81854e63af591e6a~mv2.jpg/v1/fill/w_640,h_396,al_b,q_80,usm_0.66_1.00_0.01,enc_auto/49d95c_9e5994f8125f470c81854e63af591e6a~mv2.jpg'
           alt="First slide"
           height={500}
           width={100}
         />
         <Carousel.Caption>
-          <h3>First slide label</h3>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h1><b>WELCOME TO LIFEFLASH</b></h1>
+          <p><b>BE CLAM QUITE COOL</b></p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -73,8 +76,8 @@ const Home = () => {
         />
 
         <Carousel.Caption>
-          <h3>Second slide label</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <h1><b>TRY TO BE HEALTHY</b></h1>
+          <p><b>Ain't That Nice ?</b></p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -88,9 +91,9 @@ const Home = () => {
         />
 
         <Carousel.Caption>
-          <h3>Third slide label</h3>
-          <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+          <h3><b>BE AWESOME IN A SMOOTH WAY</b></h3>
+          <p><b>We Take Care of Your Healthy Life
+           </b>
           </p>
         </Carousel.Caption>
       </Carousel.Item>

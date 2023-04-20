@@ -111,4 +111,7 @@ function ShowRecordDetails(props) {
   );
 }
   
+
+
+
 export default ShowRecordDetails
