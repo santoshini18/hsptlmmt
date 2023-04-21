@@ -69,7 +69,7 @@ const Home = () => {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://wallpaperaccess.com/full/3718207.jpg"
+          src="https://img.freepik.com/premium-photo/doctor-working-hospital-healthcare-medical-service_31965-1055.jpg"
           alt="Second slide"
           height={500}
           width={100}
