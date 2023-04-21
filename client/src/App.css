@@ -163,28 +163,28 @@ ul a:hover {
   color: #61dafb;
 }
 
-.CreateBook {
+.CreateRecord {
   background-color: #2a2a72;
   background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
   min-height: 100vh;
   color: beige;
 }
 
-.ShowBookDetails {
+.ShowRecordDetails {
   background-color: #2a2a72;
   background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);;
   min-height: 100vh;
   color: beige;
 }
 
-.UpdateBookInfo {
+.UpdateRecordInfo {
   background-color: #2a2a72;
   background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
   min-height: 100vh;
   color: beige;
 }
 
-.ShowBookList {
+.ShowRecordList {
   background-color: #2a2a72;
   background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
   height: 100%;
