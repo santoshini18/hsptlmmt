@@ -69,21 +69,21 @@ const Home = () => {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://www.prometheusresearch.com/wp-content/uploads/2019/06/10-Healthcare-Quality-Improvement-Trends-You-Can%E2%80%99t-Ignore.jpg"
+          src="https://www.cbo.gov/sites/default/files/styles/1500/public/2020-09/56620-home-near-universal-coverage.png?itok=9ovvLaXL"
           alt="Second slide"
           height={500}
           width={100}
         />
 
         <Carousel.Caption>
-          <h1  className='text-light'><b>TRY TO BE HEALTHY</b></h1>
-          <p className='text-light'><b>Ain't That Nice ?</b></p>
+          <h1  className='text-dark'><b>TRY TO BE HEALTHY</b></h1>
+          <p className='text-dark'><b>Ain't That Nice ?</b></p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://www.cbo.gov/sites/default/files/2020-09/56620-home-near-universal-coverage.png"
+          src="https://static.wixstatic.com/media/49d95c_9e5994f8125f470c81854e63af591e6a~mv2.jpg/v1/fill/w_640,h_396,al_b,q_80,usm_0.66_1.00_0.01,enc_auto/49d95c_9e5994f8125f470c81854e63af591e6a~mv2.jpg"
           alt="Third slide"
           height={500}
           width={100}
