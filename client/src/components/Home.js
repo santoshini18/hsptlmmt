@@ -94,7 +94,7 @@ const Home = () => {
 
         <Carousel.Caption>
           <h3  className='text-light'><b>BE AWESOME IN A SMOOTH WAY</b></h3>
-          <p><b>We Take Care of Your Healthy Life
+          <p  className='text-light'><b>We Take Care of Your Healthy Life
            </b>
           </p>
         </Carousel.Caption>
