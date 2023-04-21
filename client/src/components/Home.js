@@ -130,13 +130,13 @@ const Home = () => {
 
           <div class="col-md-6 col-md-offset-3 ml-5 pt-5">
             <div class="title-block">
-              <h3 align="center">Service We Offer</h3>
+              <h3>Service We Offer</h3>
               <p>Our department &amp; special service </p>
             </div>
           </div>
         </div>
         <div class="row">
-          <div class="col-sm-6 col-md-4">
+          <div class="col-sm-6 col-md-4 card">
             <div class="service-grid">
               <div class="service-icon">
                 <img src="./image/ambulance.svg" alt='' height={60} />

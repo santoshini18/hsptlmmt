@@ -133,6 +133,9 @@ ul a:hover {
 .button {
   width: 20px;
 }
+.card{
+  border: 2px solid rgb(15, 165, 140);
+}
 
 /* about-section  */
 .about-section {
