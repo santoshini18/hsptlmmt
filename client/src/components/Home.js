@@ -63,7 +63,7 @@ const Home = () => {
         />
         <Carousel.Caption>
           <h1><b>WELCOME TO LIFEFLASH</b></h1>
-          <p><b>BE CLAM QUITE COOL</b></p>
+          <p className='text-light'><b>BE CLAM QUITE COOL</b></p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -77,7 +77,7 @@ const Home = () => {
 
         <Carousel.Caption>
           <h1><b>TRY TO BE HEALTHY</b></h1>
-          <p className='text-light'><b>Ain't That Nice ?</b></p>
+          <p><b>Ain't That Nice ?</b></p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -91,7 +91,7 @@ const Home = () => {
         />
 
         <Carousel.Caption>
-          <h3><b>BE AWESOME IN A SMOOTH WAY</b></h3>
+          <h3  className='text-dark'><b>BE AWESOME IN A SMOOTH WAY</b></h3>
           <p><b>We Take Care of Your Healthy Life
            </b>
           </p>
