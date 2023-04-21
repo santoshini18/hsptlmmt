@@ -30,13 +30,13 @@ function ShowRecordList() {
         <div className='row'>
           <div className='col-md-12'>
             <br />
-            <h2 className='display-4 text-center'>Records List</h2>
+            <h2 className='display-4 text-center text-dark'>Records List</h2>
           </div>
 
           <div className='col-md-11'>
             <Link
               to='/create-record'
-              className='btn btn-outline-warning float-right'
+              className='btn btn-outline-light float-right'
             >
               + Add New Record
             </Link>

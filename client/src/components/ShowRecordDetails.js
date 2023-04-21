@@ -75,14 +75,14 @@ function ShowRecordDetails(props) {
         <div className='row'>
           <div className='col-md-10 m-auto'>
             <br /> <br />
-            <Link to='/ShowRecordList' className='btn btn-outline-warning float-left'>
+            <Link to='/ShowRecordList' className='btn btn-outline-light float-left'>
               Show Record List
             </Link>
           </div>
           <br />
-          <div className='col-md-8 m-auto'>
+          <div className='col-md-8 m-auto text-dark'>
             <h1 className='display-4 text-center'>Patient's Record</h1>
-            <p className='lead text-center'>View Patient's Info</p>
+            <p className='lead text-center '>View Patient's Info</p>
             <hr /> <br />
           </div>
           <div className='col-md-10 m-auto'>{RecordItem}</div>

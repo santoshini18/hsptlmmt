@@ -21,7 +21,7 @@ const RecordCard = (props) => {
           </Link> 
         </h2>
         <h3>{hsptlmmt.age}</h3>
-        <p>{hsptlmmt.disease}</p>
+        <p>{hsptlmmt.diseases}</p>
       </div>
     </div>  
   )
