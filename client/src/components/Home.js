@@ -56,7 +56,7 @@ const Home = () => {
       <Carousel.Item>
         <img
           className="d-block w-100"
-        src='https://static.wixstatic.com/media/49d95c_9e5994f8125f470c81854e63af591e6a~mv2.jpg/v1/fill/w_640,h_396,al_b,q_80,usm_0.66_1.00_0.01,enc_auto/49d95c_9e5994f8125f470c81854e63af591e6a~mv2.jpg'
+        src='https://www.missouripartnership.com/wp-content/uploads/2018/01/iStock-695349930-scaled.jpg'
           alt="First slide"
           height={500}
           width={100}
@@ -83,7 +83,9 @@ const Home = () => {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://www.missouripartnership.com/wp-content/uploads/2018/01/iStock-695349930-scaled.jpg"
+          src="https://static.wixstatic.com/media/49d95c_9e5994f8125f470c81854e63af591e6a~mv2.jpg/v1/fill/w_640,h_396,al_b,q_80,usm_0.66_1.00_0.01,enc_auto/49d95c_9e5994f8125f470c81854e63af591e6a~mv2.jpg
+
+          "
           alt="Third slide"
           height={500}
           width={100}
