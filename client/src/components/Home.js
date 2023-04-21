@@ -137,9 +137,9 @@ const Home = () => {
              
             </div>
           </div>
-
+          
           <div className="col card mr-3">
-            <img className="card-img-top" src="https://media.istockphoto.com/id/1390000431/photo/shot-of-a-mature-doctor-using-a-digital-tablet-in-a-modern-hospital.jpg?b=1&s=170667a&w=0&k=20&c=Jxhk_KZSo9oSZ01Nv8TxjCKKEVZQJFVWICZb64AEIMQ=" alt=" " height={200} />
+            <img className="card-img-top" src= "https://img.freepik.com/free-photo/doctor-with-stethoscope-hand-her-pocket-closeup-female-smiling-while-standing-straight-white-background_657921-731.jpg" alt=" " height={200} />
             <div className="card-body">
               <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> 
@@ -157,7 +157,7 @@ const Home = () => {
           </div>
 
           <div className="col card">
-            <img className="card-img-top" src="https://img.freepik.com/free-photo/doctor-with-stethoscope-hand-her-pocket-closeup-female-smiling-while-standing-straight-white-background_657921-731.jpg" alt=" " height={200} />
+            <img className="card-img-top" src="https://media.istockphoto.com/id/1390000431/photo/shot-of-a-mature-doctor-using-a-digital-tablet-in-a-modern-hospital.jpg?b=1&s=170667a&w=0&k=20&c=Jxhk_KZSo9oSZ01Nv8TxjCKKEVZQJFVWICZb64AEIMQ=" alt=" " height={200} />
             <div className="card-body">
               <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
