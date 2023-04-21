@@ -76,8 +76,8 @@ const Home = () => {
         />
 
         <Carousel.Caption>
-          <h1  className='text-info'><b>TRY TO BE HEALTHY</b></h1>
-          <p className='text-info'><b>Ain't That Nice ?</b></p>
+          <h1  className='text-light'><b>TRY TO BE HEALTHY</b></h1>
+          <p className='text-light'><b>Ain't That Nice ?</b></p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
