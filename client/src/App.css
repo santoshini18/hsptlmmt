@@ -80,7 +80,7 @@ ul a.active::after {
 }
 
 ul a:hover {
-  color: #0b73f1;
+  color: #0a8992;
   text-decoration: none;
 }
 
@@ -134,7 +134,7 @@ ul a:hover {
   width: 20px;
 }
 .card{
-  border: 2px solid rgb(15, 165, 140);
+  border: 2px solid rgb(7, 102, 86);
   margin-bottom: 10px;
   padding-left: 10px;
 }
