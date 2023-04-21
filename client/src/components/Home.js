@@ -359,10 +359,7 @@ const Home = () => {
  
 
   
-  <div class="text-center p-4" style={{backgroundcolor: "rgba(0, 0, 0, 0.05);"}} >
-    © 2021 Copyright:
-    <Link class="text-reset fw-bold" href="https://mdbootstrap.com/">MDBootstrap.com</Link>
-  </div>
+  
  
 </div>
 
