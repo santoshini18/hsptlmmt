@@ -164,56 +164,10 @@ const Home = () => {
             </div>
           </div>
         </div>
-
-
-      </div>
-
-
-      <div className="container">
-        <div className="row mt-5 mb-5">
-          <div className="col card mr-3">
-            <img className="card-img-top" src="./image/paris-animate.svg" alt=" " height={200} />
-            <div className="card-body">
-              <h5 className="card-title">Paris</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-primary">Go somewhere</Link>
-            </div>
-          </div>
-
-          <div className="col card mr-3">
-            <img className="card-img-top" src="./image/london-animate.svg" alt=" " height={200} />
-            <div className="card-body">
-              <h5 className="card-title">London</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-primary">Go somewhere</Link>
-            </div>
-          </div>
-
-          <div className="col card mr-3">
-            <img className="card-img-top" src="./image/japan-animate.svg" alt=" " height={200} />
-            <div className="card-body">
-              <h5 className="card-title">Japan</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-primary">Go somewhere</Link>
-            </div>
-          </div>
-
-          <div className="col card">
-            <img className="card-img-top" src="./image/new-york-animate.svg" alt=" " height={200} />
-            <div className="card-body">
-              <h5 className="card-title">New York</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-primary">Go somewhere</Link>
-            </div>
-          </div>
-        </div>
-
-
-      </div>
-
+       </div>
     </div>
 {/*blogs*/}
-<div></div>
+<div>our blogs</div>
 
 
 
