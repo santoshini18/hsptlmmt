@@ -124,7 +124,7 @@ const Home = () => {
 {/*our doctors*/}
 <div className="destination-section">
       <div className='heading'>
-        <h1 className='text-center pt-4'>OUR BLOGS </h1>
+        <h1 className='text-center pt-4'>Destination</h1>
       </div>
       <div className="container ">
         <div className="row mt-5">
@@ -132,7 +132,7 @@ const Home = () => {
             <img className="card-img-top" src="./image/paris-animate.svg" alt=" " height={200} />
             <div className="card-body">
               <h5 className="card-title">Paris</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's   content.</p>
+              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               <Link to='' className="btn btn-primary">Go somewhere</Link>
             </div>
           </div>
@@ -164,7 +164,10 @@ const Home = () => {
             </div>
           </div>
         </div>
-       </div>
+
+
+      </div>
+
     </div>
 {/*blogs*/}
 <div>our blogs</div>
