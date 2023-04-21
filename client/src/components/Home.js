@@ -69,7 +69,7 @@ const Home = () => {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://www.cisa.gov/sites/default/files/styles/hero_large/public/2023-01/hero_healthcare.jpg?h=e0d9a4bb&itok=vjZecrhI"
+          src="https://www.prometheusresearch.com/wp-content/uploads/2019/06/10-Healthcare-Quality-Improvement-Trends-You-Can%E2%80%99t-Ignore.jpg"
           alt="Second slide"
           height={500}
           width={100}
