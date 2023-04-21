@@ -124,7 +124,7 @@ const Home = () => {
 {/*our doctors*/}
 <div className="destination-section">
       <div className='heading'>
-        <h1 className='text-center pt-4'>OUR BLOGS</h1>
+        <h1 className='text-center text-success pt-4'>OUR BLOGS</h1>
       </div>
       <div className="container ">
         <div className="row mt-5">
@@ -133,7 +133,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-primary">Read More :</Link>
+              <Link to='' className="btn btn-success">Read More :</Link>
             </div>
           </div>
 
@@ -142,7 +142,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">London</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-primary">Read More :</Link>
+              <Link to='' className="btn btn-success">Read More :</Link>
             </div>
           </div>
 
@@ -151,7 +151,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-primary">Read More :</Link>
+              <Link to='' className="btn btn-success">Read More :</Link>
             </div>
           </div>
 
@@ -160,7 +160,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-primary">Read More :</Link>
+              <Link to='' className="btn btn-success">Read More :</Link>
             </div>
           </div>
         </div>
