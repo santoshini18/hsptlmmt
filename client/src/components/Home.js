@@ -69,7 +69,7 @@ const Home = () => {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://t4.ftcdn.net/jpg/02/56/80/17/240_F_256801795_eQKeCNQCXjQHC01dqYD8YUkdDcbsOLTs.jpg"
+          src="https://media.istockphoto.com/id/1479129013/photo/medical-technology-and-health-care-service-doctor-white-cross-of-medical-with-healthcare.jpg?s=612x612&w=is&k=20&c=013fsJHxICm5Wam84U7RTSgohtSV1uEWs471Xi4071Q="
           alt="Second slide"
           height={500}
           width={100}
