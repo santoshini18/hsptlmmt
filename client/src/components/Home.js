@@ -69,7 +69,7 @@ const Home = () => {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://muslimaid.storage.googleapis.com/upload/img_cache/file-2540-c3140610843658e55343c899d6b4d6f5.jpg"
+          src="https://www.cisa.gov/sites/default/files/styles/hero_large/public/2023-01/hero_healthcare.jpg?h=e0d9a4bb&itok=vjZecrhI"
           alt="Second slide"
           height={500}
           width={100}
