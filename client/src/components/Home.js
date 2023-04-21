@@ -62,8 +62,8 @@ const Home = () => {
           width={100}
         />
         <Carousel.Caption>
-          <h1><b>WELCOME TO LIFEFLASH</b></h1>
-          <p className='text-light'><b>BE CLAM QUITE COOL</b></p>
+          <h1  className='text-dark'><b>WELCOME TO LIFEFLASH</b></h1>
+          <p className='text-dark'><b>BE CLAM QUITE COOL</b></p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -93,7 +93,7 @@ const Home = () => {
         />
 
         <Carousel.Caption>
-          <h3  className='text-dark'><b>BE AWESOME IN A SMOOTH WAY</b></h3>
+          <h3  className='text-light'><b>BE AWESOME IN A SMOOTH WAY</b></h3>
           <p><b>We Take Care of Your Healthy Life
            </b>
           </p>
