@@ -124,7 +124,7 @@ const Home = () => {
 {/*our doctors*/}
 <div className="destination-section">
       <div className='heading'>
-        <h1 className='text-center pt-4'>OUR BLOGS</h1>
+        <h1 className='text-center pt-4'>OUR DOCTORS</h1>
       </div>
       <div className="container ">
         <div className="row mt-5">
