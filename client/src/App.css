@@ -228,12 +228,12 @@ ul a:hover {
 
 .desc h3, p {
   font-weight: 600;
-  color: #0000;
+  
 
 }
 
-.desc h3  {
-  /* color: #6c757d; */
+.desc h3,p  {
+  color: #01060a;
   font-size: 1em;
   padding: 10px 0 10px 0;
 }
