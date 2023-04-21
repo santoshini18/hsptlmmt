@@ -161,7 +161,7 @@ const Home = () => {
             </div>
           </div>
           <div class="col-sm-6 col-md-4 ">
-            <div class="service-grid card pl-2">
+            <div class="service-grid card ">
               <div class="service-icon">
                 <img src='./image/call-center.svg' alt='' height={60} />
 
@@ -174,7 +174,7 @@ const Home = () => {
             </div>
           </div>
           <div class="col-sm-6 col-md-4 ">
-            <div class="service-grid card pl-2">
+            <div class="service-grid card ">
               <div class="service-icon">
                 <img src='./image/blood-test.svg' alt='' height={60} />
               </div>
@@ -186,7 +186,7 @@ const Home = () => {
             </div>
           </div>
           <div class="col-sm-6 col-md-4 ">
-            <div class="service-grid card pl-2">
+            <div class="service-grid card ">
               <div class="service-icon">
                 <img src='./image/heart-health.svg' alt='' height={60} />
               </div>
@@ -198,7 +198,7 @@ const Home = () => {
             </div>
           </div>
           <div class="col-sm-6 col-md-4">
-            <div class="service-grid card pl-2">
+            <div class="service-grid card ">
               <div class="service-icon">
                 <img src='./image/dental-check.svg' alt='' height={60} />
               </div>
@@ -210,7 +210,7 @@ const Home = () => {
             </div>
           </div>
           <div class="col-sm-6 col-md-4">
-            <div class="service-grid card pl-2">
+            <div class="service-grid card ">
               <div class="service-icon">
                 <img src='./image/doctor-with-document.svg' alt='' height={60} />
               </div>
@@ -222,7 +222,7 @@ const Home = () => {
             </div>
           </div>
           <div class="col-sm-6 col-md-4">
-            <div class="service-grid card pl-2">
+            <div class="service-grid card ">
               <div class="service-icon">
                 <img src='./image/eye.svg' alt='' height={60} />
               </div>
@@ -234,7 +234,7 @@ const Home = () => {
             </div>
           </div>
           <div class="col-sm-6 col-md-4 hidden-sm">
-            <div class="service-grid card pl-2">
+            <div class="service-grid card ">
               <div class="service-icon">
                 <img src='./image/heart.svg' alt='' height={60} />
               </div>
