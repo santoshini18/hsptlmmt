@@ -135,7 +135,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-        <div class="row">
+        <div class="row" border="2px solid-black">
           <div class="col-sm-6 col-md-4">
             <div class="service-grid">
               <div class="service-icon">
@@ -246,8 +246,7 @@ const Home = () => {
             </div>
           </div>
           <div>
-             kefjskhfhsfkjshdukfh
-
+             
           </div>
         </div>
       </div>
