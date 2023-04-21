@@ -131,9 +131,9 @@ const Home = () => {
           <div className="col card mr-3">
             <img className="card-img-top" src="https://t4.ftcdn.net/jpg/02/60/04/09/360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title">Paris</h5>
+              <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-primary">Go somewhere</Link>
+              <Link to='' className="btn btn-primary">Read More :</Link>
             </div>
           </div>
 
@@ -142,25 +142,25 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">London</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-primary">Go somewhere</Link>
+              <Link to='' className="btn btn-primary">Read More :</Link>
             </div>
           </div>
 
           <div className="col card mr-3">
-            <img className="card-img-top" src="./image/japan-animate.svg" alt=" " height={200} />
+            <img className="card-img-top" src="https://media.istockphoto.com/id/1189304032/photo/doctor-holding-digital-tablet-at-meeting-room.jpg?s=612x612&w=0&k=20&c=RtQn8w_vhzGYbflSa1B5ea9Ji70O8wHpSgGBSh0anUg=" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title">Japan</h5>
+              <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-primary">Go somewhere</Link>
+              <Link to='' className="btn btn-primary">Read More :</Link>
             </div>
           </div>
 
           <div className="col card">
-            <img className="card-img-top" src="./image/new-york-animate.svg" alt=" " height={200} />
+            <img className="card-img-top" src="https://img.freepik.com/free-photo/doctor-with-stethoscope-hand-her-pocket-closeup-female-smiling-while-standing-straight-white-background_657921-731.jpg" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title">New York</h5>
+              <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-primary">Go somewhere</Link>
+              <Link to='' className="btn btn-primary">Read More :</Link>
             </div>
           </div>
         </div>
