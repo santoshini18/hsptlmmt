@@ -112,9 +112,9 @@ const Home = () => {
           </div>
           {/* content  */}
           <div className='col mt-5'>
-            <h3 className='text-dark text-center'> ABOUT US </h3>
-            <h3 className='text-dark text-center'> What we are and our history</h3>
-            <p className='text-dark'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, READ MORE
+            <h3 className='text-light text-center'> ABOUT US </h3>
+            <h3 className='text-light text-center'> What we are and our history</h3>
+            <p className='text-light'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, READ MORE
             </p>
 
           </div>
