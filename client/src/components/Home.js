@@ -129,7 +129,7 @@ const Home = () => {
       <div className="container ">
         <div className="row mt-5">
           <div className="col card mr-3">
-            <img className="card-img-top" src="./image/paris-animate.svg" alt=" " height={200} />
+            <img className="card-img-top" src="https://t4.ftcdn.net/jpg/02/60/04/09/360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg" alt=" " height={200} />
             <div className="card-body">
               <h5 className="card-title">Paris</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -138,7 +138,7 @@ const Home = () => {
           </div>
 
           <div className="col card mr-3">
-            <img className="card-img-top" src="./image/london-animate.svg" alt=" " height={200} />
+            <img className="card-img-top" src="https://media.istockphoto.com/id/1390000431/photo/shot-of-a-mature-doctor-using-a-digital-tablet-in-a-modern-hospital.jpg?b=1&s=170667a&w=0&k=20&c=Jxhk_KZSo9oSZ01Nv8TxjCKKEVZQJFVWICZb64AEIMQ=" alt=" " height={200} />
             <div className="card-body">
               <h5 className="card-title">London</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
