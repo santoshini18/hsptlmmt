@@ -176,133 +176,133 @@
 
 
 //     {/* services section  */}
-//     <div className='services-section' id='ser'>
-//       <div class="container">
-//         <div class="row text-center mb-5">
+    // <div className='services-section' id='ser'>
+    //   <div class="container">
+    //     <div class="row text-center mb-5">
 
-//           <div class="col-md-6 col-md-offset-3 ml-5 pt-5">
-//             <div class="title-block">
-//               <h1><b>Service We Offer</b></h1>
-//               <p><b>Our department &amp; special service</b> </p>
-//             </div>
-//           </div>
-//         </div>
-//         <div class="row">
-//           <div class="col-sm-6 col-md-4 ">
-//             <div class="service-grid card pl-2"> 
-//               <div class="service-icon">
-//                 <img src="./image/ambulance.svg" alt='' height={60} />
-//               </div>
-//               <div class="service-text">
-//                 <h4>Emergency Care</h4>
-//                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-//                   been the industry's standard dummy text ever</p>
-//               </div>
-//             </div>
-//           </div>
-//           <div class="col-sm-6 col-md-4 ">
-//             <div class="service-grid card pl-2">
-//               <div class="service-icon">
-//                 <img src='./image/doctors-consultation.svg' alt='' height={60} />
-//               </div>
-//               <div class="service-text">
-//                 <h4>Doctors 24/7</h4>
-//                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-//                   been the industry's standard dummy text ever</p>
-//               </div>
-//             </div>
-//           </div>
-//           <div class="col-sm-6 col-md-4 ">
-//             <div class="service-grid card ">
-//               <div class="service-icon">
-//                 <img src='./image/call-center.svg' alt='' height={60} />
+    //       <div class="col-md-6 col-md-offset-3 ml-5 pt-5">
+    //         <div class="title-block">
+    //           <h1><b>Service We Offer</b></h1>
+    //           <p><b>Our department &amp; special service</b> </p>
+    //         </div>
+    //       </div>
+    //     </div>
+    //     <div class="row">
+    //       <div class="col-sm-6 col-md-4 ">
+    //         <div class="service-grid card pl-2"> 
+    //           <div class="service-icon">
+    //             <img src="./image/ambulance.svg" alt='' height={60} />
+    //           </div>
+    //           <div class="service-text">
+    //             <h4>Emergency Care</h4>
+    //             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+    //               been the industry's standard dummy text ever</p>
+    //           </div>
+    //         </div>
+    //       </div>
+    //       <div class="col-sm-6 col-md-4 ">
+    //         <div class="service-grid card pl-2">
+    //           <div class="service-icon">
+    //             <img src='./image/doctors-consultation.svg' alt='' height={60} />
+    //           </div>
+    //           <div class="service-text">
+    //             <h4>Doctors 24/7</h4>
+    //             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+    //               been the industry's standard dummy text ever</p>
+    //           </div>
+    //         </div>
+    //       </div>
+    //       <div class="col-sm-6 col-md-4 ">
+    //         <div class="service-grid card ">
+    //           <div class="service-icon">
+    //             <img src='./image/call-center.svg' alt='' height={60} />
 
-//               </div>
-//               <div class="service-text">
-//                 <h4>Doctors 24/7</h4>
-//                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-//                   been the industry's standard dummy text ever</p>
-//               </div>
-//             </div>
-//           </div>
-//           <div class="col-sm-6 col-md-4 ">
-//             <div class="service-grid card ">
-//               <div class="service-icon">
-//                 <img src='./image/blood-test.svg' alt='' height={60} />
-//               </div>
-//               <div class="service-text">
-//                 <h4>Blood Test</h4>
-//                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-//                   been the industry's standard dummy text ever</p>
-//               </div>
-//             </div>
-//           </div>
-//           <div class="col-sm-6 col-md-4 ">
-//             <div class="service-grid card ">
-//               <div class="service-icon">
-//                 <img src='./image/heart-health.svg' alt='' height={60} />
-//               </div>
-//               <div class="service-text">
-//                 <h4>Cardiac Surgery</h4>
-//                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-//                   been the industry's standard dummy text ever</p>
-//               </div>
-//             </div>
-//           </div>
-//           <div class="col-sm-6 col-md-4">
-//             <div class="service-grid card ">
-//               <div class="service-icon">
-//                 <img src='./image/dental-check.svg' alt='' height={60} />
-//               </div>
-//               <div class="service-text">
-//                 <h4>Dental Care </h4>
-//                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-//                   been the industry's standard dummy text ever</p>
-//               </div>
-//             </div>
-//           </div>
-//           <div class="col-sm-6 col-md-4">
-//             <div class="service-grid card ">
-//               <div class="service-icon">
-//                 <img src='./image/doctor-with-document.svg' alt='' height={60} />
-//               </div>
-//               <div class="service-text">
-//                 <h4>Outdoor Checkup</h4>
-//                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-//                   been the industry's standard dummy text ever</p>
-//               </div>
-//             </div>
-//           </div>
-//           <div class="col-sm-6 col-md-4">
-//             <div class="service-grid card ">
-//               <div class="service-icon">
-//                 <img src='./image/eye.svg' alt='' height={60} />
-//               </div>
-//               <div class="service-text">
-//                 <h4>Ophthalmology</h4>
-//                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-//                   been the industry's standard dummy text ever</p>
-//               </div>
-//             </div>
-//           </div>
-//           <div class="col-sm-6 col-md-4 hidden-sm">
-//             <div class="service-grid card ">
-//               <div class="service-icon">
-//                 <img src='./image/heart.svg' alt='' height={60} />
-//               </div>
-//               <div class="service-text">
-//                 <h4>Heart disease</h4>
-//                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-//                   been the industry's standard dummy text ever</p>
-//               </div>
-//             </div>
-//           </div>
-//           <div>
+    //           </div>
+    //           <div class="service-text">
+    //             <h4>Doctors 24/7</h4>
+    //             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+    //               been the industry's standard dummy text ever</p>
+    //           </div>
+    //         </div>
+    //       </div>
+    //       <div class="col-sm-6 col-md-4 ">
+    //         <div class="service-grid card ">
+    //           <div class="service-icon">
+    //             <img src='./image/blood-test.svg' alt='' height={60} />
+    //           </div>
+    //           <div class="service-text">
+    //             <h4>Blood Test</h4>
+    //             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+    //               been the industry's standard dummy text ever</p>
+    //           </div>
+    //         </div>
+    //       </div>
+    //       <div class="col-sm-6 col-md-4 ">
+    //         <div class="service-grid card ">
+    //           <div class="service-icon">
+    //             <img src='./image/heart-health.svg' alt='' height={60} />
+    //           </div>
+    //           <div class="service-text">
+    //             <h4>Cardiac Surgery</h4>
+    //             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+    //               been the industry's standard dummy text ever</p>
+    //           </div>
+    //         </div>
+    //       </div>
+    //       <div class="col-sm-6 col-md-4">
+    //         <div class="service-grid card ">
+    //           <div class="service-icon">
+    //             <img src='./image/dental-check.svg' alt='' height={60} />
+    //           </div>
+    //           <div class="service-text">
+    //             <h4>Dental Care </h4>
+    //             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+    //               been the industry's standard dummy text ever</p>
+    //           </div>
+    //         </div>
+    //       </div>
+    //       <div class="col-sm-6 col-md-4">
+    //         <div class="service-grid card ">
+    //           <div class="service-icon">
+    //             <img src='./image/doctor-with-document.svg' alt='' height={60} />
+    //           </div>
+    //           <div class="service-text">
+    //             <h4>Outdoor Checkup</h4>
+    //             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+    //               been the industry's standard dummy text ever</p>
+    //           </div>
+    //         </div>
+    //       </div>
+    //       <div class="col-sm-6 col-md-4">
+    //         <div class="service-grid card ">
+    //           <div class="service-icon">
+    //             <img src='./image/eye.svg' alt='' height={60} />
+    //           </div>
+    //           <div class="service-text">
+    //             <h4>Ophthalmology</h4>
+    //             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+    //               been the industry's standard dummy text ever</p>
+    //           </div>
+    //         </div>
+    //       </div>
+    //       <div class="col-sm-6 col-md-4 hidden-sm">
+    //         <div class="service-grid card ">
+    //           <div class="service-icon">
+    //             <img src='./image/heart.svg' alt='' height={60} />
+    //           </div>
+    //           <div class="service-text">
+    //             <h4>Heart disease</h4>
+    //             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+    //               been the industry's standard dummy text ever</p>
+    //           </div>
+    //         </div>
+    //       </div>
+    //       <div>
              
-//           </div>
-//         </div>
-//       </div>
-//     </div>
+    //       </div>
+    //     </div>
+    //   </div>
+    // </div>
 
 
 //   {/* footer section  */}
@@ -529,9 +529,9 @@ const Home = () => {
       </div>
       {/* content  */}
       <div className='col mt-5'>
-        <h3 className='text-success'> ABOUT US </h3>
-        <h3 className='text-success'> What we are and our history</h3>
-        <p className='text-success'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, READ MORE
+        <h1 className='text-success'> <b>ABOUT US </b></h1>
+        <h2 className='text-success'> <b>What we are and our history</b></h2>
+        <p className='text-success'><b>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting</b> READ MORE
         </p>
 
       </div>
@@ -541,130 +541,133 @@ const Home = () => {
 
 
  {/* services section  */}
- <div className='services-section'>
- <div class="container">
-                <div class="row">
-                    
-                    <div class="col-md-6 col-md-offset-3">
-                        <div class="title-block">
-                            <h3>Service We Offer</h3>
-                            <p>Our department &amp; special service </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-6 col-md-4">
-                        <div class="service-grid">
-                            <div class="service-icon">
-                                <i class="flaticon-ambulance-1 icon-color-1 hvr-buzz-out"></i>
-                            </div>
-                            <div class="service-text">
-                                <h4>Emergency Care</h4>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                                    been the industry's standard dummy text ever</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4">
-                        <div class="service-grid">
-                            <div class="service-icon">
-                                <i class="flaticon-stethoscope-1 icon-color-2 hvr-buzz-out"></i>
-                            </div>
-                            <div class="service-text">
-                                <h4>Call Center 24/7</h4>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                                    been the industry's standard dummy text ever</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4">
-                        <div class="service-grid">
-                            <div class="service-icon">
-                                <i class="flaticon-telephone icon-color-3 hvr-buzz-out"></i>
-                            </div>
-                            <div class="service-text">
-                                <h4>Call Center 24/7</h4>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                                    been the industry's standard dummy text ever</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4">
-                        <div class="service-grid">
-                            <div class="service-icon">
-                                <i class="flaticon-medical-2 icon-color-4 hvr-buzz-out"></i>
-                            </div>
-                            <div class="service-text">
-                                <h4>Blood Test</h4>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                                    been the industry's standard dummy text ever</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4">
-                        <div class="service-grid">
-                            <div class="service-icon">
-                                <i class="flaticon-pulse icon-color-5 hvr-buzz-out"></i>
-                            </div>
-                            <div class="service-text">
-                                <h4>Cardiac Surgery</h4>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                                    been the industry's standard dummy text ever</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4">
-                        <div class="service-grid">
-                            <div class="service-icon">
-                                <i class="flaticon-molar-1 icon-color-6 hvr-buzz-out"></i>
-                            </div>
-                            <div class="service-text">
-                                <h4>Dental Care </h4>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                                    been the industry's standard dummy text ever</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4">
-                        <div class="service-grid">
-                            <div class="service-icon">
-                                <i class="flaticon-stethoscope-1 icon-color-7 hvr-buzz-out"></i>
-                            </div>
-                            <div class="service-text">
-                                <h4>Outdoor Checkup</h4>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                                    been the industry's standard dummy text ever</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4">
-                        <div class="service-grid">
-                            <div class="service-icon">
-                                <i class="flaticon-medical icon-color-8 hvr-buzz-out"></i>
-                            </div>
-                            <div class="service-text">
-                                <h4>Ophthalmology</h4>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                                    been the industry's standard dummy text ever</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4 hidden-sm">
-                        <div class="service-grid">
-                            <div class="service-icon">
-                                <i class="flaticon-heart icon-color-9 hvr-buzz-out"></i>
-                            </div>
-                            <div class="service-text">
-                                <h4>Heart disease</h4>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                                    been the industry's standard dummy text ever</p>
-                            </div>
-                        </div>
-                        </div>
-                        </div>
-                        </div>
-                        </div>
-                        
+ <div className='services-section' id='ser'>
+      <div class="container">
+        <div class="row text-center mb-5">
+
+          <div class="col-md-6 col-md-offset-3 ml-5 pt-5">
+            <div class="title-block">
+              <h1><b>Service We Offer</b></h1>
+              <p><b>Our department &amp; special service</b> </p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-6 col-md-4 ">
+            <div class="service-grid card pl-2"> 
+              <div class="service-icon">
+                <img src="./image/ambulance.svg" alt='' height={60} />
+              </div>
+              <div class="service-text">
+                <h4>Emergency Care</h4>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                  been the industry's standard dummy text ever</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 ">
+            <div class="service-grid card pl-2">
+              <div class="service-icon">
+                <img src='./image/doctors-consultation.svg' alt='' height={60} />
+              </div>
+              <div class="service-text">
+                <h4>Doctors 24/7</h4>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                  been the industry's standard dummy text ever</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 ">
+            <div class="service-grid card ">
+              <div class="service-icon">
+                <img src='./image/call-center.svg' alt='' height={60} />
+
+              </div>
+              <div class="service-text">
+                <h4>Doctors 24/7</h4>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                  been the industry's standard dummy text ever</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 ">
+            <div class="service-grid card ">
+              <div class="service-icon">
+                <img src='./image/blood-test.svg' alt='' height={60} />
+              </div>
+              <div class="service-text">
+                <h4>Blood Test</h4>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                  been the industry's standard dummy text ever</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 ">
+            <div class="service-grid card ">
+              <div class="service-icon">
+                <img src='./image/heart-health.svg' alt='' height={60} />
+              </div>
+              <div class="service-text">
+                <h4>Cardiac Surgery</h4>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                  been the industry's standard dummy text ever</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+            <div class="service-grid card ">
+              <div class="service-icon">
+                <img src='./image/dental-check.svg' alt='' height={60} />
+              </div>
+              <div class="service-text">
+                <h4>Dental Care </h4>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                  been the industry's standard dummy text ever</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+            <div class="service-grid card ">
+              <div class="service-icon">
+                <img src='./image/doctor-with-document.svg' alt='' height={60} />
+              </div>
+              <div class="service-text">
+                <h4>Outdoor Checkup</h4>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                  been the industry's standard dummy text ever</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+            <div class="service-grid card ">
+              <div class="service-icon">
+                <img src='./image/eye.svg' alt='' height={60} />
+              </div>
+              <div class="service-text">
+                <h4>Ophthalmology</h4>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                  been the industry's standard dummy text ever</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 hidden-sm">
+            <div class="service-grid card ">
+              <div class="service-icon">
+                <img src='./image/heart.svg' alt='' height={60} />
+              </div>
+              <div class="service-text">
+                <h4>Heart disease</h4>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                  been the industry's standard dummy text ever</p>
+              </div>
+            </div>
+          </div>
+          <div>
+             
+          </div>
+        </div>
+      </div>
+    </div>
 
  
 
