@@ -728,7 +728,35 @@ const Home = () => {
 
 {/*footer*/}
 <div>jfhjhjk</div>
-    
+<div className="footer-content">
+        <h3>Footer Section</h3>
+        <p>Footer section - source code. </p>
+        <ul className="socials">
+          <li> <Link><i class="fa-brands fa-instagram fa-beat"></i></Link> </li>
+          <li> <Link><i class="fa-brands fa-facebook fa-beat"></i></Link> </li>
+          <li> <Link><i class="fa-brands fa-twitter fa-beat"></i></Link> </li>
+          <li> <Link><i class="fa-brands fa-linkedin-in fa-beat"></i></Link> </li>
+        </ul>
+      </div>
+      <div className="footer-bottom">
+        <p>copyright &copy;2021 <Link> <span>footer bottom</span> </Link>  </p>
+      </div>
+      <div className="footer-menu">
+        <ul className="f-menu">
+          <li>
+            <Link to='/'>Home</Link>
+          </li>
+          <li>
+            <Link to='/about'>About</Link>
+          </li>
+          <li>
+            <Link to='/service'>Services</Link>
+          </li>
+          <li>
+            <Link to='/contact'>Contact</Link>
+          </li>
+        </ul>
+      </div>
 
 
         
