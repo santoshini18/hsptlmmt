@@ -472,7 +472,7 @@ const Home = () => {
       </div>
     </nav>
 
-    {/* hero-sectinjdon  */}
+    {/* hero-section  */}
 
     <Carousel>
     <Carousel.Item>
@@ -726,8 +726,8 @@ const Home = () => {
 
     </div>
 
-
-
+{/*footer*/}
+<div>jfhjhjk</div>
     
 
 
