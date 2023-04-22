@@ -727,36 +727,41 @@ const Home = () => {
     </div>
 
 {/*footer*/}
-<div>jfhjhjk</div>
-<div className="footer-content">
-        <h3>Footer Section</h3>
-        <p>Footer section - source code. </p>
-        <ul className="socials">
-          <li> <Link><i class="fa-brands fa-instagram fa-beat"></i></Link> </li>
-          <li> <Link><i class="fa-brands fa-facebook fa-beat"></i></Link> </li>
-          <li> <Link><i class="fa-brands fa-twitter fa-beat"></i></Link> </li>
-          <li> <Link><i class="fa-brands fa-linkedin-in fa-beat"></i></Link> </li>
-        </ul>
+<div className="footer-section">
+      <div className="footer-container m-auto">
+        <div className="row ml-5">
+          <div className="col mb-3">
+              <h3 className='pt-4'>Connect us</h3>            
+              <Link><i class="fa-brands fa-instagram fa-beat mr-3 ml-3 f-2 text-danger pt-3 "></i></Link> <br />
+              <Link><i class="fa-brands fa-facebook fa-beat mr-3 ml-3 mt-2 text-primary"></i></Link> <br />
+              <Link><i class="fa-brands fa-twitter fa-beat mr-3 ml-3 mt-2 text-info"></i></Link> <br />
+              <Link><i class="fa-brands fa-linkedin-in fa-beat ml-3 mt-2 text-"></i></Link>           
+          </div>
+
+          <div className="col mb-3">
+              <h3 className='pt-4'>Services</h3>            
+              <h6 className='ml-4 pt-3'>lorem</h6>
+              <br />
+              <h6 className='ml-4'>lorem</h6>
+              <br />
+              <h6 className='ml-4'>lorem</h6>
+              <br />
+
+          </div>
+
+          <div className="col mb-3">
+              <h3 className='pt-4'>Contact</h3>            
+              <h6 className='ml-4 pt-3'>Gmail 📧</h6>
+              <br />
+              <h6 className='ml-4'>Phone 📲</h6>
+              <br />
+              <h6 className='ml-4'>Map 🗺️</h6>
+              <br />           
+          </div>
+        </div>
       </div>
-      <div className="footer-bottom">
-        <p>copyright &copy;2021 <Link> <span>footer bottom</span> </Link>  </p>
-      </div>
-      <div className="footer-menu">
-        <ul className="f-menu">
-          <li>
-            <Link to='/'>Home</Link>
-          </li>
-          <li>
-            <Link to='/about'>About</Link>
-          </li>
-          <li>
-            <Link to='/service'>Services</Link>
-          </li>
-          <li>
-            <Link to='/contact'>Contact</Link>
-          </li>
-        </ul>
-      </div>
+
+    </div>
 
 
         
