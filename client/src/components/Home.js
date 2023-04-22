@@ -749,12 +749,12 @@ const Home = () => {
 
           </div>
           <div className="col mb-3">
-              <h3 className='pt-4'>Services</h3>            
-              <h6 className='ml-4 pt-3'>lorem</h6>
+              <h3 className='pt-4'>Our community</h3>            
+              <h6 className='ml-4 pt-3'>Forums</h6>
               <br />
-              <h6 className='ml-4'>lorem</h6>
+              <h6 className='ml-4'>Blogs</h6>
               <br />
-              <h6 className='ml-4'>lorem</h6>
+              <h6 className='ml-4'>Meetups</h6>
               <br />
 
           </div>
