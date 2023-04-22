@@ -459,6 +459,9 @@ const Home = () => {
               <Link to='/create-record'><b>Appintment</b></Link>
             </li>
             <li>
+              <Link to='/'><b>DOCTORS</b></Link>
+            </li>
+            <li>
               <Link to='/'><b>Services</b></Link>
             </li>
             <li>
@@ -670,7 +673,7 @@ const Home = () => {
     </div>
 
          {/*doctors*/}    
-<div>abcdd</div>
+
        
 
 <div className="destination-section">
@@ -686,7 +689,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-success">Make An Appointment:</Link>
+              <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
             </div>
           </div>
 
@@ -695,7 +698,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-success">Make An Appointment:</Link>
+              <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
             </div>
           </div>
 
@@ -704,7 +707,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-success">Make An Appointment:</Link>
+              <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
             </div>
           </div>
 
@@ -713,7 +716,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-success">Make An Appointment:</Link>
+              <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
             </div>
           </div>
         </div>
