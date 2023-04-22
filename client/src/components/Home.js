@@ -459,7 +459,7 @@ const Home = () => {
               <Link to='/create-record'><b>Appintment</b></Link>
             </li>
             <li>
-              <Link to='/'><b>DOCTORS</b></Link>
+              <Link to='/'><b>Doctors</b></Link>
             </li>
             <li>
               <Link to='/'><b>Services</b></Link>
@@ -472,7 +472,7 @@ const Home = () => {
       </div>
     </nav>
 
-    {/* hero-section  */}
+    {/* hero-sectinjdon  */}
 
     <Carousel>
     <Carousel.Item>
