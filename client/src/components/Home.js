@@ -475,34 +475,34 @@ const Home = () => {
     <Carousel.Item>
       <img
         className="d-block w-100"
-        src="https://www.universityofcalifornia.edu/sites/default/files/ucla-med-day-2018.jpeg"
+        src="https://www.missouripartnership.com/wp-content/uploads/2018/01/iStock-695349930-scaled.jpg'"
         alt="First slide"
         height={500}
         width={100}
       />
       <Carousel.Caption>
-        <h3>First slide label</h3>
-        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+      <h1  className='text-dark'><b>WELCOME TO LIFEFLASH</b></h1>
+               <p className='text-dark'><b>BE CLAM QUITE COOL</b></p>
       </Carousel.Caption>
     </Carousel.Item>
     <Carousel.Item>
       <img
         className="d-block w-100"
-        src="https://wallpaperaccess.com/full/624111.jpg"
+        src="https://www.cbo.gov/sites/default/files/styles/1500/public/2020-09/56620-home-near-universal-coverage.png?itok=9ovvLaXL"
         alt="Second slide"
         height={500}
         width={100}
       />
 
       <Carousel.Caption>
-        <h3>Second slide label</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <h1  className='text-dark'><b>TRY TO BE HEALTHY</b></h1>
+         <p className='text-dark'><b>Ain't That Nice ?</b></p>
       </Carousel.Caption>
     </Carousel.Item>
     <Carousel.Item>
       <img
         className="d-block w-100"
-        src="https://www.missouripartnership.com/wp-content/uploads/2018/01/iStock-695349930-scaled.jpg"
+        src="https://static.wixstatic.com/media/49d95c_9e5994f8125f470c81854e63af591e6a~mv2.jpg/v1/fill/w_640,h_396,al_b,q_80,usm_0.66_1.00_0.01,enc_auto/49d95c_9e5994f8125f470c81854e63af591e6a~mv2.jpg"
         alt="Third slide"
         height={500}
         width={100}
@@ -510,10 +510,8 @@ const Home = () => {
       />
 
       <Carousel.Caption>
-        <h3>Third slide label</h3>
-        <p>
-          Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-        </p>
+      <h3  className='text-light'><b>BE AWESOME IN A SMOOTH WAY</b></h3>
+         <p  className='text-light'><b>We Take Care of Your Healthy Life </b></p>
       </Carousel.Caption>
     </Carousel.Item>
   </Carousel>
