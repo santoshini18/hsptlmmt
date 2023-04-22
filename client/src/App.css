@@ -405,9 +405,14 @@ ul a:hover {
 } 
 
 .container{
-  color: #117973;
+  color: #146460;
 }
 
 .text{
- color: #05545a;
+ color: #095b61;
+} 
+.card{
+  border: 2px solid rgb(7, 102, 86);
+  margin-bottom: 10px;
+  padding-left: 10px;
 } 
