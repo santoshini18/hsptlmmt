@@ -671,11 +671,11 @@ const Home = () => {
 
          {/*doctors*/}    
 <div>abcdd</div>
+       
 
-
-<div className="destination-section">
+    <div className="destination-section">
       <div className='heading'>
-        <h1 className='text-center pt-4'>Our Doctors</h1>
+        <h1 className='text-center pt-4'>Destination</h1>
       </div>
       <div className="container ">
         <div className="row mt-5">
@@ -706,7 +706,7 @@ const Home = () => {
             </div>
           </div>
 
-         
+          
         </div>
 
 
@@ -724,16 +724,25 @@ const Home = () => {
             </div>
           </div>
 
-         
+          <div className="col card mr-3">
+            <img className="card-img-top" src="./image/london-animate.svg" alt=" " height={200} />
+            <div className="card-body">
+              <h5 className="card-title">London</h5>
+              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <Link to='' className="btn btn-primary">Go somewhere</Link>
+            </div>
+          </div>
 
           
 
+         
         </div>
 
 
       </div>
 
     </div>
+
 
 
 
