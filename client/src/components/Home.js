@@ -686,16 +686,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-success">Read More</Link>
-            </div>
-          </div>
-
-          <div className="col card mr-3">
-            <img className="card-img-top" src="https://t4.ftcdn.net/jpg/02/60/04/09/360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg" alt=" " height={200} />
-            <div className="card-body">
-              <h5 className="card-title">John Deo</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-success">Read More</Link>
+              <Link to='' className="btn btn-success">Make An Appointment:</Link>
             </div>
           </div>
 
@@ -704,7 +695,16 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-success">Read More</Link>
+              <Link to='' className="btn btn-success">Make An Appointment:</Link>
+            </div>
+          </div>
+
+          <div className="col card mr-3">
+            <img className="card-img-top" src="https://t4.ftcdn.net/jpg/02/60/04/09/360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg" alt=" " height={200} />
+            <div className="card-body">
+              <h5 className="card-title">John Deo</h5>
+              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <Link to='' className="btn btn-success">Make An Appointment:</Link>
             </div>
           </div>
 
@@ -713,7 +713,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <Link to='' className="btn btn-success">Read More</Link>
+              <Link to='' className="btn btn-success">Make An Appointment:</Link>
             </div>
           </div>
         </div>
