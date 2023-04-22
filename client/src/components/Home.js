@@ -453,16 +453,16 @@ const Home = () => {
         <div className={`nav-element ${showNavbar && 'active'} `} >
           <ul >
             <li>
-              <Link to='/'>Home</Link>
+              <Link to='/'><b>Home</b></Link>
             </li>
             <li>
-              <Link to='/create-record'>Appintment</Link>
+              <Link to='/create-record'><b>Appintment</b></Link>
             </li>
             <li>
-              <Link to='/'>Services</Link>
+              <Link to='/'><b>Services</b></Link>
             </li>
             <li>
-              <Link to='/'>Contact</Link>
+              <Link to='/'><b>Contact</b></Link>
             </li>
           </ul>
         </div>
