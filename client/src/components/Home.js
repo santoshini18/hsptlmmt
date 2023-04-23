@@ -459,10 +459,13 @@ const Home = () => {
               <Link to='/create-record'><b>Appointment</b></Link>
             </li>
             <li>
-              <Link to='/'><b>Doctors</b></Link>
+              <Link to='/'><b>Services</b></Link>
             </li>
             <li>
-              <Link to='/'><b>Services</b></Link>
+              <Link to='/'><b>Blogs</b></Link>
+            </li>
+            <li>
+              <Link to='/'><b>Doctors</b></Link>
             </li>
             <li>
               <Link to='/'><b>Contact</b></Link>
