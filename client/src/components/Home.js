@@ -679,7 +679,7 @@ const Home = () => {
             <img className="card-img-top" src="https://media.istockphoto.com/id/1390000431/photo/shot-of-a-mature-doctor-using-a-digital-tablet-in-a-modern-hospital.jpg?b=1&s=170667a&w=0&k=20&c=Jxhk_KZSo9oSZ01Nv8TxjCKKEVZQJFVWICZb64AEIMQ=" alt=" " height={200} />
             <div className="card-body">
               <h5 className="card-title">Dr.Harish</h5>
-              <p className="card-text"> Speciality: Paediatrics<br/>Qualification: MBBS,MD
+              <p className="card-text"> Speciality: Paediatrics<br/>Qualification: MBBS,Fellow in Neonatology
 </p>
               <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
             </div>
