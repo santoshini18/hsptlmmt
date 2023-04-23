@@ -38,7 +38,7 @@ function ShowRecordList() {
               to='/create-record'
               className='btn btn-outline-light float-right'
             >
-              + Add New Record
+             <b> + Add New Record</b>
             </Link>
             <br />
             <br />
