@@ -30,7 +30,7 @@ function ShowRecordList() {
         <div className='row'>
           <div className='col-md-12'>
             <br />
-            <h2 className='display-4 text-center text-success'><b>Records List</b></h2>
+            <h2 className='display-4 text-center text-light'><b>Records List</b></h2>
           </div>
 
           <div className='col-md-11'>
