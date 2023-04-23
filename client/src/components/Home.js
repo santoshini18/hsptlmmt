@@ -534,7 +534,7 @@ const Home = () => {
       <div className='col mt-5'>
         <h1 className='text-success'> <b>ABOUT US </b></h1>
         <h2 className='text-success'> <b>What we are and our history</b></h2>
-        <p className='text-success'><b>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting</b> READ MORE
+        <p className='text-success'><b>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting</b>
         </p>
 
       </div>
@@ -678,7 +678,7 @@ const Home = () => {
           <div className="col card mr-3">
             <img className="card-img-top" src="https://media.istockphoto.com/id/1390000431/photo/shot-of-a-mature-doctor-using-a-digital-tablet-in-a-modern-hospital.jpg?b=1&s=170667a&w=0&k=20&c=Jxhk_KZSo9oSZ01Nv8TxjCKKEVZQJFVWICZb64AEIMQ=" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title">Dr.Harish</h5>
+              <h5 className="card-title">Dr.Nagesh</h5>
               <p className="card-text"> Speciality: Paediatrics<br/>Qualification: MBBS,Fellow in Neonatology
 </p>
               <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
@@ -688,7 +688,7 @@ const Home = () => {
           <div className="col card mr-3">
             <img className="card-img-top" src="https://media.istockphoto.com/id/1189304032/photo/doctor-holding-digital-tablet-at-meeting-room.jpg?s=612x612&w=0&k=20&c=RtQn8w_vhzGYbflSa1B5ea9Ji70O8wHpSgGBSh0anUg=" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title">Dr.Nagesh</h5>
+              <h5 className="card-title">Dr.Harita</h5>
               <p className="card-text">Speciality: Cardiac Surgery <br/>Qualification: MBBS, MCh (CTVS)</p>
               <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
             </div>
@@ -740,7 +740,7 @@ const Home = () => {
             <img className="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8gx1vogkSuj7ZXl09c8iqyJXL_9801Svq-l3hfTQAxYFrJOEONOAY2dkzAw5fdqwbJ2M&usqp=CAU" alt=" " height={200} />
             <div className="card-body">
               <h5 className="card-title">Covid Response</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <p className="card-text"></p>
              
             </div>
           </div>
@@ -748,7 +748,7 @@ const Home = () => {
           <div className="col card">
             <img className="card-img-top" src="https://odishabytes.com/wp-content/uploads/2020/04/coronavirus-2-1200x675.jpg" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title">Covid Response</h5>
+              <h5 className="card-title"></h5>
               <p className="card-text"><marquee>In our hospital, we used different methods that were described in literature to identify people who were exposed to COVID-19 cases<br/> the use of closed-circuit television (CCTV) footage and duty rosters and the passive reporting of contacts by departments and via telephonic inquiry. </marquee></p>
              
             </div>

@@ -60,8 +60,8 @@ const CreateRecord = (props) => {
             </Link>
           </div>
           <div className='col-md-8 m-auto '>
-            <h1 className='display-4 text-center text-dark'>Add Record</h1>
-            <p className='lead text-center text-dark'>Create new Record</p>
+            <h1 className='display-4 text-center text-light'>Add Record</h1>
+            <p className='lead text-center text-light'>Create new Record</p>
 
             <form noValidate onSubmit={onSubmit}>
               <div className='form-group'>

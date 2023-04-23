@@ -72,7 +72,7 @@ function UpdateRecordInfo(props) {
               Show Record List
             </Link>
           </div>
-          <div className='col-md-8 m-auto text-dark'>
+          <div className='col-md-8 m-auto text-light'>
             <h1 className='display-4 text-center'>Edit Record</h1>
             <p className='lead text-center'>Update Record's Info</p>
           </div>
