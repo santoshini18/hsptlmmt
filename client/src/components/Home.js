@@ -773,9 +773,9 @@ const Home = () => {
 
     </div>
 
-{/* Blogs*/}
-        <div>Our Latest News</div>
-          kammron abep mabr nshwn soieb mnssjjwoinrjye 
+
+       
+          
       </>
 
   
