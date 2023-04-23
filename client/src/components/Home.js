@@ -729,7 +729,7 @@ const Home = () => {
           <div className="col card mr-3">
             <img className="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TwjBBkWYVNUOeqE0IQIi2f4pd5UAwh4Whs5mkdmh725YUHsKW4fTm4z--KHWzSScWdM&usqp=CAU" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title">Madical Care </h5>
+              <h5 className="card-title"><b>Madical Care </b></h5>
               <p className="card-text"><marquee> No compromise when it comes to your healthcare.<br/>We are inspired when we bring you back into good health and keep you there<br/>Striving to achieve greater standards, and keeping you fit and well.
  </marquee></p>
               
