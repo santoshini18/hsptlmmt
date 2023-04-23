@@ -33,6 +33,7 @@ function ShowRecordList() {
             <h2 className='display-4 text-center text-light'><b>Records List</b></h2>
           </div>
 
+
           <div className='col-md-11'>
             <Link
               to='/create-record'
