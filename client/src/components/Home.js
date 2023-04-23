@@ -630,7 +630,7 @@ const Home = () => {
               </div>
               <div class="service-text">
                 <h4>Outdoor Checkup</h4>
-                <p>Health assessment conducted in natural outdoor environments, utilizing nature's benefits for physical, mental, and emotional well-being assessments and interventions.Most of the times, villagers have to travel to the nearest primary healthcare centre even for the simplest of tests</p>
+                <p>Health assessment conducted in natural outdoor environments, utilizing nature's benefits for physical, mental, and emotional well-being assessments.Most of the times, villagers have to travel to the nearest primary healthcare centre even for the simplest of tests</p>
               </div>
             </div>
           </div>
