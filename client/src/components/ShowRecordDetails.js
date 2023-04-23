@@ -80,9 +80,9 @@ function ShowRecordDetails(props) {
             </Link>
           </div>
           <br />
-          <div className='col-md-8 m-auto text-dark'>
-            <h1 className='display-4 text-center'>Patient's Record</h1>
-            <p className='lead text-center '>View Patient's Info</p>
+          <div className='col-md-8 m-auto text-light'>
+            <h1 className='display-4 text-center'><b>Patient's Record</b></h1>
+            <p className='lead text-center '><b>View Patient's Info</b></p>
             <hr /> <br />
           </div>
           <div className='col-md-10 m-auto'>{RecordItem}</div>
