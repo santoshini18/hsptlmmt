@@ -456,7 +456,7 @@ const Home = () => {
               <Link to='/'><b>Home</b></Link>
             </li>
             <li>
-              <Link to='/create-record'><b>Appintment</b></Link>
+              <Link to='/create-record'><b>Appointment</b></Link>
             </li>
             <li>
               <Link to='/'><b>Doctors</b></Link>
@@ -498,7 +498,7 @@ const Home = () => {
       />
 
       <Carousel.Caption>
-      <h1  className='text-dark'><b>TRY TO BE HEALTHY</b></h1>
+      <h1  className='text-dark'><b><marquee>TRY TO BE HEALTHY</marquee></b></h1>
          <p className='text-dark'><b>Ain't That Nice ?</b></p>
       </Carousel.Caption>
     </Carousel.Item>
