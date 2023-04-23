@@ -679,7 +679,7 @@ const Home = () => {
             <img className="card-img-top" src="https://media.istockphoto.com/id/1390000431/photo/shot-of-a-mature-doctor-using-a-digital-tablet-in-a-modern-hospital.jpg?b=1&s=170667a&w=0&k=20&c=Jxhk_KZSo9oSZ01Nv8TxjCKKEVZQJFVWICZb64AEIMQ=" alt=" " height={200} />
             <div className="card-body">
               <h5 className="card-title">Dr.Harish</h5>
-              <p className="card-text"> Speciality: Paediatrics, Neonatology<br/>Qualification: MBBS,MD,Fellow in Neonatology
+              <p className="card-text"> Speciality: Paediatrics<br/>Qualification: MBBS,MD
 </p>
               <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
             </div>
@@ -698,7 +698,7 @@ const Home = () => {
             <img className="card-img-top" src="https://t4.ftcdn.net/jpg/02/60/04/09/360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg" alt=" " height={200} />
             <div className="card-body">
               <h5 className="card-title">Dr.Vikram Sharma</h5>
-              <p className="card-text">Speciality: General Surgery <br/>Qualification: MBBS, MS</p>
+              <p className="card-text">Speciality: General Surgery <br/>Qualification: MBBS, MS,MD</p>
               <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
             </div>
           </div>
@@ -707,7 +707,7 @@ const Home = () => {
             <img className="card-img-top" src="https://img.freepik.com/free-photo///doctor-with-stethoscope-hand-her-pocket-closeup-female-smiling-while-standing-straight-white-background_657921-731.jpg" alt=" " height={200} />
             <div className="card-body">
               <h5 className="card-title">Dr.Abhinaya </h5>
-              <p className="card-text">Speciality: Women & child institute  <br/>Qualification: MS(OBG),FMAS</p>
+              <p className="card-text">Speciality: Women & child institute  <br/>Qualification: MS(OBG)</p>
               <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
             </div>
           </div>
