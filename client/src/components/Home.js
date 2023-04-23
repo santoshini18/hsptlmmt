@@ -749,7 +749,7 @@ const Home = () => {
           <div className="col card">
             <img className="card-img-top" src="https://odishabytes.com/wp-content/uploads/2020/04/coronavirus-2-1200x675.jpg" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title">Covid Response</h5>
+              <h5 className="card-title"><b>Covid Response</b></h5>
               <p className="card-text"><marquee>In our hospital, we used different methods that were described in literature to identify people who were exposed to COVID-19 cases<br/> the use of closed-circuit television (CCTV) footage and duty rosters <br/> the passive reporting of contacts by departments and via telephonic inquiry. </marquee></p>
              
             </div>
