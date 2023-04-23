@@ -729,7 +729,7 @@ const Home = () => {
           <div className="col card mr-3">
             <img className="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TwjBBkWYVNUOeqE0IQIi2f4pd5UAwh4Whs5mkdmh725YUHsKW4fTm4z--KHWzSScWdM&usqp=CAU" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title"><br>Madical Care</br> </h5>
+              <h5 className="card-title">Madical Care </h5>
               <p className="card-text"><marquee> No compromise when it comes to your healthcare.<br/>We are inspired when we bring you back into good health and keep you there<br/>Striving to achieve greater standards, and keeping you fit and well.
  </marquee></p>
               
@@ -740,7 +740,7 @@ const Home = () => {
           <div className="col card mr-3">
             <img className="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8gx1vogkSuj7ZXl09c8iqyJXL_9801Svq-l3hfTQAxYFrJOEONOAY2dkzAw5fdqwbJ2M&usqp=CAU" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title"><b>Equipment</b></h5>
+              <h5 className="card-title">Equipment</h5>
               <p className="card-text"><marquee>Keeping our services and equipment up-to-date always.<br/>We are known for our remarkable care, service, and people<br/>We set the standards for healthcare, surgery, and medicine.</marquee></p>
              
             </div>
@@ -749,7 +749,7 @@ const Home = () => {
           <div className="col card">
             <img className="card-img-top" src="https://odishabytes.com/wp-content/uploads/2020/04/coronavirus-2-1200x675.jpg" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title"><b>Covid Response</b></h5>
+              <h5 className="card-title">Covid Response</h5>
               <p className="card-text"><marquee>In our hospital, we used different methods that were described in literature to identify people who were exposed to COVID-19 cases<br/> the use of closed-circuit television (CCTV) footage and duty rosters <br/> the passive reporting of contacts by departments and via telephonic inquiry. </marquee></p>
              
             </div>
