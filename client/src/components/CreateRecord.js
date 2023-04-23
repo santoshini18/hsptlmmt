@@ -53,15 +53,15 @@ const CreateRecord = (props) => {
           <div className='col-md-8 m-auto'>
             <br />
             <Link to='/ShowRecordList' className='btn btn-outline-light float-right'>
-              Show Record List
+             <b> Show Record List</b>
             </Link>
             <Link to='/' className='btn btn-outline-light float-lightleft'>
-              Home
+              <b>Home</b>
             </Link>
           </div>
           <div className='col-md-8 m-auto '>
-            <h1 className='display-4 text-center text-light'>Add Record</h1>
-            <p className='lead text-center text-light'>Create new Record</p>
+            <h1 className='display-4 text-center text-light'><b>Add Record</b></h1>
+            <p className='lead text-center text-light'><b>Create new Record</b></p>
 
             <form noValidate onSubmit={onSubmit}>
               <div className='form-group'>
