@@ -630,7 +630,7 @@ const Home = () => {
               </div>
               <div class="service-text">
                 <h4>Outdoor Checkup</h4>
-                <p>Health assessment conducted in natural outdoor environments, utilizing nature's benefits for physical, mental, and emotional well-being assessments and interventions.</p>
+                <p>Health assessment conducted in natural outdoor environments, utilizing nature's benefits for physical, mental, and emotional well-being assessments and interventions.Most of the times, villagers have to travel to the nearest primary healthcare centre even for the simplest of tests</p>
               </div>
             </div>
           </div>
@@ -729,8 +729,9 @@ const Home = () => {
           <div className="col card mr-3">
             <img className="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TwjBBkWYVNUOeqE0IQIi2f4pd5UAwh4Whs5mkdmh725YUHsKW4fTm4z--KHWzSScWdM&usqp=CAU" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title">John Deo</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <h5 className="card-title">Madical Care </h5>
+              <p className="card-text"><marquee> No compromise when it comes to your healthcare.<br/>We are inspired when we bring you back into good health and keep you there<br/>Striving to achieve greater standards, and keeping you fit and well.
+ </marquee></p>
               
             </div>
           </div>
@@ -739,8 +740,8 @@ const Home = () => {
           <div className="col card mr-3">
             <img className="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8gx1vogkSuj7ZXl09c8iqyJXL_9801Svq-l3hfTQAxYFrJOEONOAY2dkzAw5fdqwbJ2M&usqp=CAU" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title">Covid Response</h5>
-              <p className="card-text"></p>
+              <h5 className="card-title">Equipment</h5>
+              <p className="card-text"><marquee>Keeping our services and equipment up-to-date always.<br/>We are known for our remarkable care, service, and people<br/>We set the standards for healthcare, surgery, and medicine.</marquee></p>
              
             </div>
           </div>
@@ -748,7 +749,7 @@ const Home = () => {
           <div className="col card">
             <img className="card-img-top" src="https://odishabytes.com/wp-content/uploads/2020/04/coronavirus-2-1200x675.jpg" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title"></h5>
+              <h5 className="card-title">Covid Response</h5>
               <p className="card-text"><marquee>In our hospital, we used different methods that were described in literature to identify people who were exposed to COVID-19 cases<br/> the use of closed-circuit television (CCTV) footage and duty rosters and the passive reporting of contacts by departments and via telephonic inquiry. </marquee></p>
              
             </div>
