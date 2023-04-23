@@ -697,8 +697,8 @@ const Home = () => {
           <div className="col card mr-3">
             <img className="card-img-top" src="https://t4.ftcdn.net/jpg/02/60/04/09/360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title">John Deo</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <h5 className="card-title">Dr.Vikram Sharma</h5>
+              <p className="card-text">Speciality: General Surgery <br/>Qualification: MBBS, MS</p>
               <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
             </div>
           </div>
@@ -706,8 +706,8 @@ const Home = () => {
           <div className="col card">
             <img className="card-img-top" src="https://img.freepik.com/free-photo///doctor-with-stethoscope-hand-her-pocket-closeup-female-smiling-while-standing-straight-white-background_657921-731.jpg" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title">John Deo</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <h5 className="card-title">Dr.Abhinaya </h5>
+              <p className="card-text">Speciality: Women & child institute  <br/>Qualification: MS(OBG),FMAS</p>
               <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
             </div>
           </div>
