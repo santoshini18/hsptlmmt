@@ -740,7 +740,7 @@ const Home = () => {
           <div className="col card mr-3">
             <img className="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8gx1vogkSuj7ZXl09c8iqyJXL_9801Svq-l3hfTQAxYFrJOEONOAY2dkzAw5fdqwbJ2M&usqp=CAU" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title">Equipment</h5>
+              <h5 className="card-title"><b>Equipment</b></h5>
               <p className="card-text"><marquee>Keeping our services and equipment up-to-date always.<br/>We are known for our remarkable care, service, and people<br/>We set the standards for healthcare, surgery, and medicine.</marquee></p>
              
             </div>
