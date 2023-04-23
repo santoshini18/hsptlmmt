@@ -419,3 +419,8 @@ ul a:hover {
 .footer-section{
   background-color: #dce9dfde;
 }
+.CreateRecord{
+  background-color: #05e8ba;
+background-image: linear-gradient(315deg, #05e8ba 0%, #087ee1 74%);
+
+}
