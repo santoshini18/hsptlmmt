@@ -546,64 +546,7 @@ const Home = () => {
  </div>
 
 
- 
-    
-
-         {/*doctors*/}    
-
-       
-
-<div className="destination-section">
-      <div className='heading'>
-        <h1 className='text-center pt-4'>OUR DOCTORS</h1>
-      </div>
-
-
-      <div className="container">
-        <div className="row mt-5 mb-5">
-          <div className="col card mr-3">
-            <img className="card-img-top" src="https://media.istockphoto.com/id/1390000431/photo/shot-of-a-mature-doctor-using-a-digital-tablet-in-a-modern-hospital.jpg?b=1&s=170667a&w=0&k=20&c=Jxhk_KZSo9oSZ01Nv8TxjCKKEVZQJFVWICZb64AEIMQ=" alt=" " height={200} />
-            <div className="card-body">
-              <h5 className="card-title">Dr.Nagesh</h5>
-              <p className="card-text"> Speciality: Paediatrics<br/>Qualification: MBBS,Fellow in Neonatology
-</p>
-              <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
-            </div>
-          </div>
-
-          <div className="col card mr-3">
-            <img className="card-img-top" src="https://media.istockphoto.com/id/1189304032/photo/doctor-holding-digital-tablet-at-meeting-room.jpg?s=612x612&w=0&k=20&c=RtQn8w_vhzGYbflSa1B5ea9Ji70O8wHpSgGBSh0anUg=" alt=" " height={200} />
-            <div className="card-body">
-              <h5 className="card-title">Dr.Harita</h5>
-              <p className="card-text">Speciality: Cardiac Surgery <br/>Qualification: MBBS, MCh (CTVS)</p>
-              <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
-            </div>
-          </div>
-
-          <div className="col card mr-3">
-            <img className="card-img-top" src="https://t4.ftcdn.net/jpg/02/60/04/09/360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg" alt=" " height={200} />
-            <div className="card-body">
-              <h5 className="card-title">Dr.Vikram Sharma</h5>
-              <p className="card-text">Speciality: General Surgery <br/>Qualification: MBBS, MS,MD ,MCh</p>
-              <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
-            </div>
-          </div>
-
-          <div className="col card">
-            <img className="card-img-top" src="https://img.freepik.com/free-photo///doctor-with-stethoscope-hand-her-pocket-closeup-female-smiling-while-standing-straight-white-background_657921-731.jpg" alt=" " height={200} />
-            <div className="card-body">
-              <h5 className="card-title">Dr.Abhinaya </h5>
-              <p className="card-text">Speciality: Women & child institute  <br/>Qualification: MS(OBG)</p>
-              <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
-            </div>
-          </div>
-        </div>
-
-
-      </div>
-
-    </div>
-    {/* services section  */}
+ {/* services section  */}
  <div className='services-section' id='ser'>
       <div class="container">
         <div class="row text-center mb-5">
@@ -721,7 +664,62 @@ const Home = () => {
           </div>
         </div>
       </div>
+    </div>
+
+         {/*doctors*/}    
+
+       
+
+<div className="destination-section">
+      <div className='heading'>
+        <h1 className='text-center pt-4'>OUR DOCTORS</h1>
       </div>
+
+
+      <div className="container">
+        <div className="row mt-5 mb-5">
+          <div className="col card mr-3">
+            <img className="card-img-top" src="https://media.istockphoto.com/id/1390000431/photo/shot-of-a-mature-doctor-using-a-digital-tablet-in-a-modern-hospital.jpg?b=1&s=170667a&w=0&k=20&c=Jxhk_KZSo9oSZ01Nv8TxjCKKEVZQJFVWICZb64AEIMQ=" alt=" " height={200} />
+            <div className="card-body">
+              <h5 className="card-title">Dr.Nagesh</h5>
+              <p className="card-text"> Speciality: Paediatrics<br/>Qualification: MBBS,Fellow in Neonatology
+</p>
+              <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
+            </div>
+          </div>
+
+          <div className="col card mr-3">
+            <img className="card-img-top" src="https://media.istockphoto.com/id/1189304032/photo/doctor-holding-digital-tablet-at-meeting-room.jpg?s=612x612&w=0&k=20&c=RtQn8w_vhzGYbflSa1B5ea9Ji70O8wHpSgGBSh0anUg=" alt=" " height={200} />
+            <div className="card-body">
+              <h5 className="card-title">Dr.Harita</h5>
+              <p className="card-text">Speciality: Cardiac Surgery <br/>Qualification: MBBS, MCh (CTVS)</p>
+              <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
+            </div>
+          </div>
+
+          <div className="col card mr-3">
+            <img className="card-img-top" src="https://t4.ftcdn.net/jpg/02/60/04/09/360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg" alt=" " height={200} />
+            <div className="card-body">
+              <h5 className="card-title">Dr.Vikram Sharma</h5>
+              <p className="card-text">Speciality: General Surgery <br/>Qualification: MBBS, MS,MD ,MCh</p>
+              <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
+            </div>
+          </div>
+
+          <div className="col card">
+            <img className="card-img-top" src="https://img.freepik.com/free-photo///doctor-with-stethoscope-hand-her-pocket-closeup-female-smiling-while-standing-straight-white-background_657921-731.jpg" alt=" " height={200} />
+            <div className="card-body">
+              <h5 className="card-title">Dr.Abhinaya </h5>
+              <p className="card-text">Speciality: Women & child institute  <br/>Qualification: MS(OBG)</p>
+              <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+
+    </div>
 {/*blogs*/}
 <div className="destination-section">
       <div className='heading'>
