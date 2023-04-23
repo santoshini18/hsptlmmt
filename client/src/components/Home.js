@@ -563,8 +563,7 @@ const Home = () => {
               </div>
               <div class="service-text">
                 <h4>Emergency Care</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                  been the industry's standard dummy text ever</p>
+                <p>Rapid response, life-saving medical care delivered urgently to individuals experiencing acute health crises or injuries.</p>
               </div>
             </div>
           </div>
@@ -575,8 +574,7 @@ const Home = () => {
               </div>
               <div class="service-text">
                 <h4>Doctors 24/7</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                  been the industry's standard dummy text ever</p>
+                <p>Accessible, round-the-clock medical professionals providing comprehensive care and expertise for patients' health needs at any time, day or night.</p>
               </div>
             </div>
           </div>
@@ -588,8 +586,7 @@ const Home = () => {
               </div>
               <div class="service-text">
                 <h4>Doctors 24/7</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                  been the industry's standard dummy text ever</p>
+                <p>Diagnostic procedure involving collection of blood sample to analyze for health indicators, aiding in diagnosis and monitoring of medical conditions.</p>
               </div>
             </div>
           </div>
@@ -600,8 +597,7 @@ const Home = () => {
               </div>
               <div class="service-text">
                 <h4>Blood Test</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                  been the industry's standard dummy text ever</p>
+                <p>Diagnostic procedure involving collection of blood sample to analyze for health indicators, aiding in diagnosis and monitoring of medical conditions.</p>
               </div>
             </div>
           </div>
@@ -612,8 +608,7 @@ const Home = () => {
               </div>
               <div class="service-text">
                 <h4>Cardiac Surgery</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                  been the industry's standard dummy text ever</p>
+                <p>Surgical procedure to treat heart conditions, involving skilled techniques to repair or replace damaged heart structures for improved cardiac health.</p>
               </div>
             </div>
           </div>
@@ -624,8 +619,7 @@ const Home = () => {
               </div>
               <div class="service-text">
                 <h4>Dental Care </h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                  been the industry's standard dummy text ever</p>
+                <p>Oral health services including preventive care, diagnosis, and treatment of dental issues, promoting healthy teeth and gums for overall well-being.</p>
               </div>
             </div>
           </div>
@@ -636,8 +630,7 @@ const Home = () => {
               </div>
               <div class="service-text">
                 <h4>Outdoor Checkup</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                  been the industry's standard dummy text ever</p>
+                <p>Health assessment conducted in natural outdoor environments, utilizing nature's benefits for physical, mental, and emotional well-being assessments and interventions.</p>
               </div>
             </div>
           </div>
@@ -648,8 +641,7 @@ const Home = () => {
               </div>
               <div class="service-text">
                 <h4>Ophthalmology</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                  been the industry's standard dummy text ever</p>
+                <p>Medical specialty focusing on eye health, diagnosis, and treatment of eye conditions, including vision correction, diseases, and disorders for optimal ocular health.</p>
               </div>
             </div>
           </div>
@@ -660,8 +652,7 @@ const Home = () => {
               </div>
               <div class="service-text">
                 <h4>Heart disease</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                  been the industry's standard dummy text ever</p>
+                <p>Cardiovascular condition characterized by abnormal heart function or structure, associated with risk factors like high blood pressure, high cholesterol, and lifestyle choices.</p>
               </div>
             </div>
           </div>
@@ -687,8 +678,8 @@ const Home = () => {
           <div className="col card mr-3">
             <img className="card-img-top" src="https://media.istockphoto.com/id/1390000431/photo/shot-of-a-mature-doctor-using-a-digital-tablet-in-a-modern-hospital.jpg?b=1&s=170667a&w=0&k=20&c=Jxhk_KZSo9oSZ01Nv8TxjCKKEVZQJFVWICZb64AEIMQ=" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title">John Deo</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <h5 className="card-title">Dr.Harika</h5>
+              <p className="card-text">Consultant:Speciality </p>
               <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
             </div>
           </div>
