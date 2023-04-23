@@ -698,7 +698,7 @@ const Home = () => {
             <img className="card-img-top" src="https://t4.ftcdn.net/jpg/02/60/04/09/360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg" alt=" " height={200} />
             <div className="card-body">
               <h5 className="card-title">Dr.Vikram Sharma</h5>
-              <p className="card-text">Speciality: General Surgery <br/>Qualification: MBBS, MS,MD</p>
+              <p className="card-text">Speciality: General Surgery <br/>Qualification: MBBS, MS,MD ,MCh</p>
               <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
             </div>
           </div>
