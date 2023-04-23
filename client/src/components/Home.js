@@ -735,7 +735,7 @@ const Home = () => {
       <div className="container">
         <div className="row mt-5 mb-5">
           <div className="col card mr-3">
-            <img className="card-img-top" src="https://media.istockphoto.com/id/1390000431/photo/shot-of-a-mature-doctor-using-a-digital-tablet-in-a-modern-hospital.jpg?b=1&s=170667a&w=0&k=20&c=Jxhk_KZSo9oSZ01Nv8TxjCKKEVZQJFVWICZb64AEIMQ=" alt=" " height={200} />
+            <img className="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TwjBBkWYVNUOeqE0IQIi2f4pd5UAwh4Whs5mkdmh725YUHsKW4fTm4z--KHWzSScWdM&usqp=CAU" alt=" " height={200} />
             <div className="card-body">
               <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -754,7 +754,7 @@ const Home = () => {
           </div>
 
           <div className="col card">
-            <img className="card-img-top" src="https://img.freepik.com/free-photo///doctor-with-stethoscope-hand-her-pocket-closeup-female-smiling-while-standing-straight-white-background_657921-731.jpg" alt=" " height={200} />
+            <img className="card-img-top" src="https://odishabytes.com/wp-content/uploads/2020/04/coronavirus-2-1200x675.jpg" alt=" " height={200} />
             <div className="card-body">
               <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
