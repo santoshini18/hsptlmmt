@@ -420,8 +420,8 @@ ul a:hover {
   background-color: #dce9dfde;
 }
 .CreateRecord{
-  background-color: #0d0a0b;
-background-image: linear-gradient(315deg, #0d0a0b 0%, #009fc2 74%);
+  background-color: #7f53ac;
+  background-image: linear-gradient(315deg, #7f53ac 0%, #647dee 74%);
    min-height: 100vh;
  
 }
