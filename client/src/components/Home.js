@@ -747,7 +747,7 @@ const Home = () => {
           <div className="col card mr-3">
             <img className="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8gx1vogkSuj7ZXl09c8iqyJXL_9801Svq-l3hfTQAxYFrJOEONOAY2dkzAw5fdqwbJ2M&usqp=CAU" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title">John Deo</h5>
+              <h5 className="card-title">Covid Response</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
              
             </div>
@@ -756,8 +756,8 @@ const Home = () => {
           <div className="col card">
             <img className="card-img-top" src="https://odishabytes.com/wp-content/uploads/2020/04/coronavirus-2-1200x675.jpg" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title">John Deo</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <h5 className="card-title">Covid Response</h5>
+              <p className="card-text">In our hospital, we used different methods that were described in literature to identify people who were exposed to COVID-19 cases, like the use of closed-circuit television (CCTV) footage and duty rosters and the passive reporting of contacts by departments and via telephonic inquiry. </p>
              
             </div>
           </div>
