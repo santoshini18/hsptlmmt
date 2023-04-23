@@ -745,7 +745,7 @@ const Home = () => {
 
          
           <div className="col card mr-3">
-            <img className="card-img-top" src="https://t4.ftcdn.net/jpg/02/60/04/09/360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg" alt=" " height={200} />
+            <img className="card-img-top" src="https://amorhospitals.com/images/amor/news/amor-news-36.jpg" alt=" " height={200} />
             <div className="card-body">
               <h5 className="card-title">John Deo</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
