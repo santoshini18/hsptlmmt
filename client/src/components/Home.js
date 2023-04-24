@@ -537,8 +537,7 @@ const Home = () => {
       <div className='col mt-5'>
         <h1 className='text-success'> <b>ABOUT US </b></h1>
         <h2 className='text-success'> <b>What we are and our history</b></h2>
-        <p className='text-success'><b>A sedentary lifestyle, stress and unhealthy habits have been recognized as the main causes for the ever-increasing cases of Non-Communicable Diseases (NCDs), like obesity, diabetes, cancer, chronic lung and cardiovascular diseases. These NCDs now contribute to almost 70% of mortalities in India. It is estimated that 1 in 10 Indians suffers from an NCD and the prevalence is increasing in those who are in the ages 25-55. This underlines poor lifestyles of the most productive population and that does not bode well for a country like ours, which has over 65 per cent of its population, under the age of 35 years. According to the World Economic Forum, by 2030, the world could lose over 30 trillion dollars and about 36 million people will die every year due to NCDs if rapid remedial action is not taken up.
-LifeFlash is regarded as one of the best hospitals in India, performing a multitude of treatments and procedures in treatment and surgeries.
+        <p className='text-success'><b>LifeFlash is regarded as one of the best hospitals in India, performing a multitude of treatments and procedures in treatment and surgeries.A sedentary lifestyle, stress and unhealthy habits have been recognized as the main causes for the ever-increasing cases of Non-Communicable Diseases (NCDs), like obesity, diabetes, cancer, chronic lung and cardiovascular diseases. These NCDs now contribute to almost 70% of mortalities in India. This underlines poor lifestyles of the most productive population and that does not bode well for a country like ours, which has over 65 per cent of its population, under the age of 35 years.
 </b>
         </p>
 
