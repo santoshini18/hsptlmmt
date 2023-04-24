@@ -588,7 +588,7 @@ const Home = () => {
 
               </div>
               <div class="service-text">
-                <h4>Doctors 24/7</h4>
+                <h4>Experts Consultancy</h4>
                 <p>Diagnostic procedure involving collection of blood sample to analyze for health indicators, aiding in diagnosis and monitoring of medical conditions.</p>
               </div>
             </div>
