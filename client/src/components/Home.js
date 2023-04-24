@@ -488,7 +488,7 @@ const Home = () => {
       />
       <Carousel.Caption>
       <h1  className='text-dark'><b>WELCOME TO LIFEFLASH</b></h1>
-               <p className='text-dark'><b>BE CLAM QUITE COOL</b></p>
+               <p className='text-dark'><b>BE CALM QUITE COOL</b></p>
       </Carousel.Caption>
     </Carousel.Item>
     <Carousel.Item>
@@ -685,7 +685,7 @@ const Home = () => {
               <h5 className="card-title">Dr.Nagesh</h5>
               <p className="card-text"> Speciality: Paediatrics<br/>Qualification: MBBS,Fellow in Neonatology
 </p>
-              <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
+              <Link to='/create-record' className="btn btn-success">Make An Appointment</Link>
             </div>
           </div>
 
@@ -694,7 +694,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">Dr.Harita</h5>
               <p className="card-text">Speciality: Cardiac Surgery <br/>Qualification: MBBS, MCh (CTVS)</p>
-              <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
+              <Link to='/create-record' className="btn btn-success">Make An Appointment</Link>
             </div>
           </div>
 
@@ -703,7 +703,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">Dr.Vikram Sharma</h5>
               <p className="card-text">Speciality: General Surgery <br/>Qualification: MBBS, MS,MD ,MCh</p>
-              <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
+              <Link to='/create-record' className="btn btn-success">Make An Appointment</Link>
             </div>
           </div>
 
@@ -712,7 +712,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">Dr.Abhinaya </h5>
               <p className="card-text">Speciality: Women & child institute  <br/>Qualification: MS(OBG)</p>
-              <Link to='/create-record' className="btn btn-success">Make An Appointment:</Link>
+              <Link to='/create-record' className="btn btn-success">Make An Appointment</Link>
             </div>
           </div>
         </div>
@@ -733,7 +733,7 @@ const Home = () => {
           <div className="col card mr-3">
             <img className="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TwjBBkWYVNUOeqE0IQIi2f4pd5UAwh4Whs5mkdmh725YUHsKW4fTm4z--KHWzSScWdM&usqp=CAU" alt=" " height={200} />
             <div className="card-body">
-              <h5 className="card-title"><b>Madical Care </b></h5>
+              <h5 className="card-title"><b>Medical Care </b></h5>
               <p className="card-text"><marquee> No compromise when it comes to your healthcare.<br/>We are inspired when we bring you back into good health and keep you there<br/>Striving to achieve greater standards, and keeping you fit and well.
  </marquee></p>
               
