@@ -1,6 +1,6 @@
 After change are made come out from that directory using "cd .."
 then run this command " ./run.sh " in terminal 
-this command automatically push all the code into github and your project got updated alsoz
+this command automatically push all the code into github and yorur project got updated alsoz
 
 
 In our hospital, we used different methods that were described in literature to identify people who were exposed to COVID-19 cases, like the use of closed-circuit television (CCTV) footage and duty rosters and the passive reporting of contacts by departments and via telephonic inquiry. 
