@@ -457,3 +457,6 @@ ul a:hover {
   min-width: 100px;
   color: beige;
 }
+.title-block{
+  align-items: center;
+}

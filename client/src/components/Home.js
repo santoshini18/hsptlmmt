@@ -554,7 +554,7 @@ const Home = () => {
 
           <div class="col-md-6 col-md-offset-3 ml-5 pt-5">
             <div class="title-block">
-              <h1><b>Service We Offer</b></h1>
+              <h1><b>services We Offer</b></h1>
               <p><b>Our department &amp; special service</b> </p>
             </div>
           </div>
